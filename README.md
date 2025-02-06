@@ -1,9 +1,5 @@
 # 💫 About Me:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/98203912-004a-464d-a038-31e90fe03f59" width="600" />
-</p>
-
 I create software for humans, on Earth!<br><br>I started programming writing extensions to automate farming in the good old Hacker Experience. Ever since I've been creating network/hardware simulations on the web non stop. And contact-center solutions!<br>
 
 
